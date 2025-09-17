@@ -33,16 +33,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="28" alt="Trello" />
 </div>
 
-## 🚀 Projetos em destaque
-<!-- Substitua os links abaixo pelos seus repositórios/demos -->
-| Projeto | Stack | O que entrega |
-|---|---|---|
-| [Nome do Projeto 1](#) | React · Node · MySQL | Autenticação JWT · CRUD completo |
-| [Nome do Projeto 2](#) | Java · Spring Boot | API REST com validação e testes |
-| [Nome do Projeto 3](#) | HTML · CSS · JS | UI responsiva e acessível |
-
-> Dica: fixe (Pin) de 3 a 6 repositórios no seu perfil.
-
 ## 💼 Experiência
 **Estagiário Help Desk (3 meses)**  
 - Suporte a rede e IoT (configuração/conexão de impressoras)  
@@ -63,10 +53,3 @@
 - Email: **luizfariasmneto@gmail.com**  
 - LinkedIn: **https://www.linkedin.com/in/luiz-farias-magalhães-neto-87b55a297**
 
-## 📊 Estatísticas
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=LuizFaNeto&show_icons=true&theme=transparent" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFaNeto&layout=compact&langs_count=8&theme=transparent" />
-</p>
-
-<!-- Nota: "Top Languages" pode distorcer se houver repositórios de estudos grandes -->
