@@ -51,4 +51,3 @@
 
 ## 📫 Contact
 - Email: **luizfariasmneto@gmail.com**  
-- LinkedIn: **https://www.linkedin.com/in/luiz-farias-magalhães-neto-87b55a297**
