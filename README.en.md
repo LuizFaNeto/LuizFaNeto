@@ -33,13 +33,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="28" alt="Trello" />
 </div>
 
-## 🚀 Featured Projects
-| Project | Stack | What it delivers |
-|---|---|---|
-| [Project 1](#) | React · Node · MySQL | JWT auth · Full CRUD |
-| [Project 2](#) | Java · Spring Boot | REST API with validation & tests |
-| [Project 3](#) | HTML · CSS · JS | Responsive and accessible UI |
-
 ## 💼 Experience
 **Help Desk Intern (3 months)**  
 - Network & IoT support (printer setup/connectivity)  
@@ -59,9 +52,3 @@
 ## 📫 Contact
 - Email: **luizfariasmneto@gmail.com**  
 - LinkedIn: **https://www.linkedin.com/in/luiz-farias-magalhães-neto-87b55a297**
-
-## 📊 Stats
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=LuizFaNeto&show_icons=true&theme=transparent" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizFaNeto&layout=compact&langs_count=8&theme=transparent" />
-</p>
