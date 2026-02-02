@@ -40,7 +40,7 @@
 - Ticket handling focused on uptime and quick resolution
 
 ## 🎓 Education & Certificates
-- **ADS — UNIFOR (4th semester)**
+- **ADS — UNIFOR (5th semester)**
 - **Alura**  
   - HTML & CSS: dev environment, file structure and tags  
   - HTML & CSS: header, footer and CSS variables  
