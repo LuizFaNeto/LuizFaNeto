@@ -40,7 +40,7 @@
 - Registro e resolução de chamados com foco em disponibilidade
 
 ## 🎓 Formação & Certificados
-- **ADS — UNIFOR (4º semestre)**
+- **ADS — UNIFOR (5º semestre)**
 - **Alura**  
   - HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags  
   - HTML e CSS: cabeçalho, footer e variáveis CSS  
