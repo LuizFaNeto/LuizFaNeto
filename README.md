@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou o Luiz Neto 👋</h1>
 <p align="center">
-  Dev Full-Stack em formação · ADS @ UNIFOR (4º semestre) · Fortaleza/CE
+  Dev Front-End em formação · ADS @ UNIFOR (5º semestre) · Fortaleza/CE
 </p>
 
 <p align="center">
