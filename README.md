@@ -8,7 +8,7 @@
 </p>
 
 ## 👨‍💻 Sobre mim
-- 🎯 **Vaga alvo:** Estágio em Desenvolvimento (Full-Stack)
+- 🎯 **Vaga alvo:** Estágio em Desenvolvimento (Front-End)
 - 🧭 **Diferenciais:** Inglês avançado, trabalho em equipe, aprendizado rápido
 - 🌱 **Estudando agora:** Técnicas de Integração de Sistemas; Projeto Aplicado: Plataforma Web
 
@@ -20,17 +20,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="28" alt="JavaScript" />
   <!-- Back-end -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="28" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="28" alt="Express" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="28" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="28" alt="Spring Boot" />
   <!-- DB -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="28" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="28" alt="Firebase" />
   <!-- Cloud/Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="28" alt="AWS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="28" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="28" alt="Postman" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="28" alt="Figma" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="28" alt="Trello" />
 </div>
 
 ## 💼 Experiência
@@ -40,7 +37,7 @@
 - Registro e resolução de chamados com foco em disponibilidade
 
 ## 🎓 Formação & Certificados
-- **ADS — UNIFOR (5º semestre)**
+- **Análise e Desenvolvimento de Sistemas(ADS) — UNIFOR (5º semestre)**
 - **Alura**  
   - HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags  
   - HTML e CSS: cabeçalho, footer e variáveis CSS  
@@ -50,4 +47,5 @@
 - Português (nativo) · **Inglês (avançado)**
 
 ## 📫 Contato
-- Email: **luizfariasmneto@gmail.com**  
+- Email: **luizfariasmneto@gmail.com**
+- WhatsApp: (85) 9 8811 - 6641 
