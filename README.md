@@ -10,7 +10,6 @@
 ## 👨‍💻 Sobre mim
 - 🎯 **Vaga alvo:** Estágio em Desenvolvimento (Front-End)
 - 🧭 **Diferenciais:** Inglês avançado, trabalho em equipe, aprendizado rápido
-- 🌱 **Estudando agora:** Técnicas de Integração de Sistemas; Projeto Aplicado: Plataforma Web
 
 ## 🛠️ Tech Stack
 <div>
