@@ -57,9 +57,6 @@ cadastro de alunos com grade fixa, reposições e relatório de atendimentos.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="28" alt="Figma" />
 </div>
 
-## 📈 Atividade
-[![Grid de contribuições](assets/contributions-dark.svg)](https://github.com/LuizFaNeto)
-
 ## 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-farias-magalhães-neto-87b55a297)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:luizfariasmneto@gmail.com)
