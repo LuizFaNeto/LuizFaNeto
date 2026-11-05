@@ -1,0 +1,35 @@
+name: Atualiza grid de contribuições
+
+on:
+  schedule:
+    - cron: '30 3 * * *' # todo dia 03:30 UTC (00:30 em Fortaleza)
+  workflow_dispatch: # permite rodar manualmente na aba Actions
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Busca contribuições e gera o SVG
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh api graphql -f query='query{user(login:"LuizFaNeto"){contributionsCollection{contributionCalendar{weeks{contributionDays{contributionCount date}}}}}}' > contrib.json
+          python3 scripts/gen_grid.py contrib.json
+          rm contrib.json
+
+      - name: Commit se houver mudança
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/contributions-dark.svg
+          if git diff --cached --quiet; then
+            echo "sem mudanças"
+          else
+            git commit -m "chore: atualiza grid de contribuições"
+            git push
+          fi

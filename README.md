@@ -58,7 +58,7 @@ cadastro de alunos com grade fixa, reposições e relatório de atendimentos.
 </div>
 
 ## 📈 Atividade
-[![Luiz's contribution grid](https://ghchart.rshah.org/LuizFaNeto)](https://github.com/LuizFaNeto)
+[![Grid de contribuições](assets/contributions-dark.svg)](https://github.com/LuizFaNeto)
 
 ## 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-farias-magalhães-neto-87b55a297)
