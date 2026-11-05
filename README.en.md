@@ -58,7 +58,7 @@ student registration with fixed schedules, make-up lessons and attendance report
 </div>
 
 ## 📈 Activity
-[![Luiz's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuizFaNeto&theme=github)](https://github.com/LuizFaNeto)
+[![Luiz's contribution grid](https://ghchart.rshah.org/LuizFaNeto)](https://github.com/LuizFaNeto)
 
 ## 📫 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-farias-magalhães-neto-87b55a297)
